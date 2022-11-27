@@ -14,7 +14,7 @@
 }
 
 .krio_head{
-    background-image: url(img/head.png);
+    background-image: url(./img/head.png);
     max-width: 1920px;
 
     height: 750px;
