@@ -64,10 +64,7 @@ transform: rotate(-90deg);
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
-.head>img{
-  background-image: url(../img/BSPP2266\ \(1\).png);
-  width: 23%;
-}
+
 /* --------------------------------- */
 
 
