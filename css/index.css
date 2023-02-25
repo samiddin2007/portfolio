@@ -251,7 +251,7 @@ button > p:hover {
   transition: 0.7s;
 }
 
-@media (max-width: 475px) {
+@media (max-width: 600px) {
   .container {
     margin: 0 auto;
     margin-top: 32px;
